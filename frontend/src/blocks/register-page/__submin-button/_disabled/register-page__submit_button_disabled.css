@@ -1,0 +1,13 @@
+.register-page__submit-button_disabled{
+    color: #C4C4C4;
+    border: 1px solid #C4C4C4;
+    cursor: default;
+    background-color: white;
+    
+  }
+  
+  .register-page__submit-button_disabled:hover{
+    border: 1px solid #C4C4C4;
+    cursor: default;
+    background-color: white;
+  }

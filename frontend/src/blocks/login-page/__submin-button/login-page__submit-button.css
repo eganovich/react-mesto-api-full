@@ -1,0 +1,20 @@
+.login-page__submit-button{
+    max-width: 358px;
+    height: 50.15px;
+    margin-top: 216px;
+    padding: 0;
+    border: transparent;
+    background-color:#FFFFFF;
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.1;
+    border-radius: 2px;
+    transition: background-color 0.5s ease-in-out;
+  }
+  
+  .login-page__submit-button:hover{
+      background-color: rgba(255, 255, 255, 0.85);
+      transition: background-color 0.5s ease-in-out;
+      cursor: pointer;
+  }

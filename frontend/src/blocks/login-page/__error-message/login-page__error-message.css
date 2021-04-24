@@ -1,0 +1,7 @@
+.login-page__error-message{
+    color: #FF0000;
+    font-size: 12px;
+    line-height: 1.25;
+    padding-top: 5px;
+    display: none;
+  }

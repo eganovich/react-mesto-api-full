@@ -1,0 +1,13 @@
+.login-page__input{
+    border: transparent;
+    background: transparent;
+    border-bottom: 1px solid white;
+    width: 100%;
+    max-width: 358px;
+    min-height: 27.34px;
+    padding: 30px 0px 0px 0px;
+    font-weight: 500;
+    color: #CCCCCC;
+    font-size: 14px;
+    line-height: 1.21;
+}

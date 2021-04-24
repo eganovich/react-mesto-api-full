@@ -1,0 +1,15 @@
+@import url('./__header/register-page__header.css');
+@import url('./__form/register-page__form.css');
+@import url('./__input/register-page__input.css');
+@import url('./__input/_invalide/register-page__input_invalide.css');
+@import url('./__error-message/register-page__error-message.css');
+@import url('./__error-message/_visible/register-page__error-massage_visible.css');
+@import url('./__submin-button/register-page__submit-button.css');
+@import url('./__submin-button/_disabled/register-page__submit_button_disabled.css');
+@import url('./__link/register-page__link.css');
+
+.register-page{
+    display: flex;
+    flex-direction: column;
+}
+    

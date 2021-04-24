@@ -1,0 +1,12 @@
+.place__about{
+    padding-top: 0px;
+    padding-left: 21px;
+    padding-bottom: 31px;
+    padding-right:21px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+       
+}

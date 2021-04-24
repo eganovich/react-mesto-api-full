@@ -1,0 +1,4 @@
+.modal__confirm-form{
+    display: flex;
+    flex-direction: column;
+}

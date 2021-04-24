@@ -1,0 +1,16 @@
+.modal__content{
+    width: 430px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    padding: 36px;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 520px){
+    .modal__content{
+        width: calc(100% - 90px);
+  }}
+
